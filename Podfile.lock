@@ -1,0 +1,25 @@
+PODS:
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - Tibei (0.2)
+
+DEPENDENCIES:
+  - RxCocoa
+  - RxSwift
+  - Tibei
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxCocoa
+    - RxSwift
+    - Tibei
+
+SPEC CHECKSUMS:
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  Tibei: 4c913e3b47f5656455afa015863a5dc707ef9b36
+
+PODFILE CHECKSUM: 4ef22326159a0ff23d25c961592c01fcfa7d251e
+
+COCOAPODS: 1.5.3
